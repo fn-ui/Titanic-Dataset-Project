@@ -78,4 +78,8 @@ notebooks/Titanic_Feature_Engineering.ipynb
 
 ## Author
 
-Student AI Assignment
+## Author
+
+Faith Njeri  
+Student, Egerton University  
+GitHub: https://github.com/fn-ui
